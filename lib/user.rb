@@ -1,2 +1,4 @@
 class User
-  attr_acessor 
+  attr_accessor :firstname, :lastname
+
+end  
